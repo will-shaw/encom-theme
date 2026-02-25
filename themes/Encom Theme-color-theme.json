@@ -229,7 +229,15 @@
     "quickInputList.focusForeground": "#4bbfd1",
     "quickInputList.focusIconForeground": "#4bbfd1",
     "pickerGroup.foreground": "#4bbfd1",
-    "pickerGroup.border": "#11253a"
+    "pickerGroup.border": "#11253a",
+    // Diff Editor
+    "diffEditor.removedLineBackground": "#e4678022",
+    "diffEditor.removedTextBackground": "#e4678022",
+    "diffEditor.insertedLineBackground": "#00996622",
+    "diffEditor.insertedTextBackground": "#00996622",
+    "diffEditorGutter.insertedLineBackground": "#00996622",
+    "diffEditorGutter.removedLineBackground": "#e4678022",
+    "diffEditor.diagonalFill": "#11253a"
   },
   "tokenColors": [
     {
