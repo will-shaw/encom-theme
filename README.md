@@ -1,16 +1,17 @@
-# encom-theme README
+# Encom Theme
 
-## Working with Markdown
+Just a theme I created for myself, inspired by Encom user interfaces in Tron Legacy.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Screenshots
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Base Editor
 
-## For more information
+![main](./screenshots/screenshot_main.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Diff Editor
 
-**Enjoy!**
+![diff](./screenshots/screenshot_diff_editor.png)
+
+Hover, Chat, and Panel
+
+![hover+chat+panel](./screenshots/screenshot_hover+chat+panel.png)
