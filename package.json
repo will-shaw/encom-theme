@@ -2,6 +2,7 @@
   "name": "encom-theme",
   "displayName": "encom",
   "description": "Encom Theme",
+  "publisher": "will-shaw",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.94.0"
