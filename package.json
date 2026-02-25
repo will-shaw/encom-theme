@@ -1,0 +1,21 @@
+{
+  "name": "encom-theme",
+  "displayName": "encom",
+  "description": "Encom Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Encom Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Encom Theme-color-theme.json"
+      }
+    ]
+  }
+}
