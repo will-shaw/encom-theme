@@ -1,0 +1,40 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="1024" height="1024" rx="192" fill="#0a0f1a"/>
+
+  <defs>
+    <filter id="encomGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="20" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g fill="none" stroke="#18F0E8" stroke-width="96" stroke-linecap="butt" stroke-linejoin="miter" filter="url(#encomGlow)">
+
+    <path d="
+      M910 160
+      L224 160
+      Q160 160 160 224
+      L160 800
+      Q160 864 224 864
+      L800 864
+      Q864 864 864 800
+      L864 310
+    "></path>
+
+    <path d="
+      M380 300
+      L700 300
+      L700 300
+      L380 300
+      L380 724
+      L700 724
+      M380 512
+      L640 512
+    "></path>
+
+  </g>
+</svg>
